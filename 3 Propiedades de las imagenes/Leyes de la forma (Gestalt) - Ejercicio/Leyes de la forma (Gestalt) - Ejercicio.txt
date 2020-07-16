@@ -1,0 +1,15 @@
+Leyes de la forma (Gestalt) - Ejercicio
+Elabora el código necesario para generar una forma que cumpla las siguientes leyes o principios de la forma (Gestalt).
+1. Proximidad
+
+2. Semejanza
+
+3. Encierro
+
+4. Simetría
+
+5. Cierre
+
+6. Continuidad
+
+7. Conexión
