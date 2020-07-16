@@ -1,0 +1,11 @@
+Teoría del Color y Formas con Python Turtle
+Objetivo
+
+Crear imágenes (formas) con la aplicación de los principios de la teoría de color, el uso del círculo cromático y la utilización del módulo Turtle de Python.
+
+Instrucciones
+
+Realizar una o varias figuras geométricas o formas que utilicen los colores primarios.
+Construye una segunda forma que utilice los colores secundarios.
+Por último crea una figura geométrica o forma que utilice alguna de las armonías de colores que vimos en clase con el círculo cromático. 
+Los tres scripts de Python Turtle envíalos por este medio.
